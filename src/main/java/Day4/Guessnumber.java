@@ -25,7 +25,5 @@ public class Guessnumber {
         } while (n != numbtoguess);
             System.out.println("Congratulations, you got the right number.");
 
-
-
     }
 }
